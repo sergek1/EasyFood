@@ -1,5 +1,7 @@
 # EasyFood
 
+Осталось реализовать поиск блюд по названию
+
 <img src="screenshots/1.png" alt="easyfood" width="300"/>
 
 <img src="screenshots/2.png" alt="easyfood" width="300"/>
